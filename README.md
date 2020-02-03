@@ -28,6 +28,8 @@
 
 - circleci https://circleci.com/
 
+- Application caching : Redis / node-cache https://redislabs.com/docs/15-reasons-caching-is-best-done-with-redis/ https://www.npmjs.com/package/node-cache
+
 ### Résumé
 
 Chaque mercredi matin entre 09h30 et 10h00, une personne de l'équipe présente un sujet. Ce sujet peut être la présentation d'une technologie, d'un langage informatique, d'une conférence ...
