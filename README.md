@@ -26,6 +26,8 @@
 
 - Hadoop https://hadoop.apache.org/
 
+- circleci https://circleci.com/
+
 ### Résumé
 
 Chaque mercredi matin entre 09h30 et 10h00, une personne de l'équipe présente un sujet. Ce sujet peut être la présentation d'une technologie, d'un langage informatique, d'une conférence ...
