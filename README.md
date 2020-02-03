@@ -16,6 +16,11 @@
 
 - aws : https://aws.amazon.com/fr/
 
+- C++11 à C++17 https://www.mycplus.com/featured-articles/cplusplus-17-features/
+
+- Node.js Heap, stack, event-loops and callback queue https://medium.com/javascript-in-plain-english/understanding-javascript-heap-stack-event-loops-and-callback-queue-6fdec3cfe32e
+
+
 ### Résumé
 
 Chaque mercredi matin entre 09h30 et 10h00, une personne de l'équipe présente un sujet. Ce sujet peut être la présentation d'une technologie, d'un langage informatique, d'une conférence ...
