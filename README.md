@@ -34,6 +34,8 @@
 
 - Design patterns https://sourcemaking.com/design_patterns
 
+- Réseau _(masques, DMZ, VLAN ...)_
+
 ### Résumé
 
 Chaque mercredi matin entre 09h30 et 10h00, une personne de l'équipe présente un sujet. Ce sujet peut être la présentation d'une technologie, d'un langage informatique, d'une conférence ...
