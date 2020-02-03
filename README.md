@@ -24,7 +24,7 @@
 
 - Scala https://www.scala-lang.org/
 
-- https://hadoop.apache.org/
+- Hadoop https://hadoop.apache.org/
 
 ### Résumé
 
