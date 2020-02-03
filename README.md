@@ -32,6 +32,8 @@
 
 - Algorithmes de recherches https://www.geeksforgeeks.org/searching-algorithms/
 
+- Design patterns https://sourcemaking.com/design_patterns
+
 ### Résumé
 
 Chaque mercredi matin entre 09h30 et 10h00, une personne de l'équipe présente un sujet. Ce sujet peut être la présentation d'une technologie, d'un langage informatique, d'une conférence ...
