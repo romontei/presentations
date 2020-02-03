@@ -1,20 +1,20 @@
 ### Lien vers les présentations
 
-GraphQL https://github.com/acecor-cotep/presentations/issues/1
+- GraphQL https://github.com/acecor-cotep/presentations/issues/1
 
 ### Idées de présentations
 
-Kotlin : https://kotlinlang.org/
+- Kotlin : https://kotlinlang.org/
 
-memcached : https://memcached.org/
+- memcached : https://memcached.org/
 
-redis : https://redis.io/
+- redis : https://redis.io/
 
-go : https://golang.org/
+- go : https://golang.org/
 
-elasticsearch : https://www.elastic.co/fr/
+- elasticsearch : https://www.elastic.co/fr/
 
-aws : https://aws.amazon.com/fr/
+- aws : https://aws.amazon.com/fr/
 
 ### Résumé
 
