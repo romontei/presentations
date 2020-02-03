@@ -20,6 +20,10 @@
 
 - Node.js Heap, stack, event-loops and callback queue https://medium.com/javascript-in-plain-english/understanding-javascript-heap-stack-event-loops-and-callback-queue-6fdec3cfe32e
 
+- Spark https://spark.apache.org/
+
+- Scala https://www.scala-lang.org/
+
 
 ### Résumé
 
