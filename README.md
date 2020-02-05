@@ -1,6 +1,7 @@
 ### Lien vers les présentations
 
 - GraphQL https://github.com/acecor-cotep/presentations/issues/1
+- Kotlin  https://github.com/acecor-cotep/presentations/issues/2
 
 ### Idées de présentations
 
