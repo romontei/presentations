@@ -2,6 +2,7 @@
 
 - GraphQL https://github.com/acecor-cotep/presentations/issues/1
 - Kotlin  https://github.com/acecor-cotep/presentations/issues/2
+- Apache Guacamole https://www.tech2tech.fr/apache-guacamole-passerelle-rdp-ssh-vnc-telnet/
 
 ### Idées de présentations
 
