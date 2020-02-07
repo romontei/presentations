@@ -6,7 +6,7 @@
 
 ### Idées de présentations
 
-- Kotlin : https://kotlinlang.org/
+- WebAssembly : https://webassembly.org/ https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 
 - memcached : https://memcached.org/
 
