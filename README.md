@@ -1,6 +1,8 @@
 ### Lien vers les présentations
 
+- Kickstart @todo
 - Apache Guacamole https://www.tech2tech.fr/apache-guacamole-passerelle-rdp-ssh-vnc-telnet/
+- Grafana @todo
 - GraphQL https://github.com/acecor-cotep/presentations/issues/1
 - Kotlin  https://github.com/acecor-cotep/presentations/issues/2
 
