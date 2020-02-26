@@ -5,6 +5,7 @@
 - Grafana @todo
 - GraphQL https://github.com/acecor-cotep/presentations/issues/1
 - Kotlin  https://github.com/acecor-cotep/presentations/issues/2
+- Azure : https://portal.azure.com
 
 
 ### Idées de présentations
