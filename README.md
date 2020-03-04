@@ -6,6 +6,7 @@
 - GraphQL https://github.com/acecor-cotep/presentations/issues/1
 - Kotlin  https://github.com/acecor-cotep/presentations/issues/2
 - Azure : https://portal.azure.com
+- Apache Spark : https://github.com/acecor-cotep/presentations/issues/4
 
 
 ### Idées de présentations
@@ -25,8 +26,6 @@
 - C++11 à C++17 https://www.mycplus.com/featured-articles/cplusplus-17-features/
 
 - Node.js Heap, stack, event-loops and callback queue https://medium.com/javascript-in-plain-english/understanding-javascript-heap-stack-event-loops-and-callback-queue-6fdec3cfe32e
-
-- Spark https://spark.apache.org/
 
 - Scala https://www.scala-lang.org/
 
