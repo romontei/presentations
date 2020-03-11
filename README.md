@@ -7,13 +7,12 @@
 - Kotlin  https://github.com/acecor-cotep/presentations/issues/2
 - Azure : https://portal.azure.com
 - Apache Spark : https://github.com/acecor-cotep/presentations/issues/4
+- Memcached : https://github.com/acecor-cotep/presentations/issues/5
 
 
 ### Idées de présentations
 
 - WebAssembly : https://webassembly.org/ https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
-
-- memcached : https://memcached.org/
 
 - redis : https://redis.io/
 
