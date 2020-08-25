@@ -1,13 +1,18 @@
 ### Lien vers les présentations
 
-- Kickstart @todo
-- Apache Guacamole https://www.tech2tech.fr/apache-guacamole-passerelle-rdp-ssh-vnc-telnet/
-- Grafana @todo
-- GraphQL https://github.com/acecor-cotep/presentations/issues/1
-- Kotlin  https://github.com/acecor-cotep/presentations/issues/2
-- Azure : https://portal.azure.com
-- Apache Spark : https://github.com/acecor-cotep/presentations/issues/4
-- Memcached : https://github.com/acecor-cotep/presentations/issues/5
+| Sujet | Auteur | Lien |
+|-------|--------|------|
+| Kickstart | Alrick | void :( |
+| Apache Guacamole | Yvan | https://www.tech2tech.fr/apache-guacamole-passerelle-rdp-ssh-vnc-telnet/ |
+| Grafana | Robin | void :( | 
+| GraphQL | Grégory | https://github.com/acecor-cotep/presentations/issues/1 |
+| Kotlin | Grégory | https://github.com/acecor-cotep/presentations/issues/2 |
+| Azure | Yvan | https://portal.azure.com |
+| Apache Spark | Grégory | https://github.com/acecor-cotep/presentations/issues/4 |
+| Memcached | Grégory | https://github.com/acecor-cotep/presentations/issues/5 |
+| Serverless/lambda | Alrick | void :( |
+| Karma | Robin | void :( |
+| Go | Grégory | https://github.com/acecor-cotep/presentations/issues/7 |
 
 
 ### Idées de présentations
@@ -15,8 +20,6 @@
 - WebAssembly : https://webassembly.org/ https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 
 - redis : https://redis.io/
-
-- go : https://golang.org/
 
 - elasticsearch : https://www.elastic.co/fr/
 
