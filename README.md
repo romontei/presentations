@@ -2,47 +2,61 @@
 
 | Sujet | Auteur | Lien |
 |-------|--------|------|
-| Kickstart | Alrick | void :( |
+| Kickstart | Alrick | `void :(` |
 | Apache Guacamole | Yvan | https://www.tech2tech.fr/apache-guacamole-passerelle-rdp-ssh-vnc-telnet/ |
-| Grafana | Robin | void :( | 
+| Grafana | Robin | `void :(` | 
 | GraphQL | Grégory | https://github.com/acecor-cotep/presentations/issues/1 |
 | Kotlin | Gwenaelle | https://github.com/acecor-cotep/presentations/issues/2 |
 | Azure | Yvan | https://portal.azure.com |
 | Apache Spark | Grégory | https://github.com/acecor-cotep/presentations/issues/4 |
 | Memcached | Gwenaelle | https://github.com/acecor-cotep/presentations/issues/5 |
 | Serverless/lambda | Alrick | https://github.com/acecor-cotep/presentations/tree/master/serverless |
-| Karma | Robin | void :( |
+| Karma | Robin | `void :(` |
 | Go | Grégory | https://github.com/acecor-cotep/presentations/issues/7 |
 | Hexagonal Architecture | Alrick | https://github.com/acecor-cotep/presentations/tree/master/hexagonal_architecture |
-
+|  `N/A`    |  Grégory  |  `void :(`  |
+|  `N/A`    |  Gwenaelle  |  `void :(`  |
+|  `N/A`    |  Robin  |  `void :(`  |
+|  `N/A`    |  Yvan  |  `void :(`  |
+|  `N/A`    |  Grégory  |  `void :(`  |
+|  `N/A`    |  Gwenaelle  |  `void :(`  |
+|  `N/A`    |  Robin  |  `void :(`  |
+|  `N/A`    |  Yvan  |  `void :(`  |
+|  `N/A`    |  Grégory  |  `void :(`  |
+|  `N/A`    |  Gwenaelle  |  `void :(`  |
+|  `N/A`    |  Robin  |  `void :(`  |
+|  `N/A`    |  Yvan  |  `void :(`  |
+|  `N/A`    |  Grégory  |  `void :(`  |
+|  `N/A`    |  Gwenaelle  |  `void :(`  |
+|  `N/A`    |  Robin  |  `void :(`  |
+|  `N/A`    |  Yvan  |  `void :(`  |
+|  `N/A`    |  Grégory  |  `void :(`  |
+|  `N/A`    |  Gwenaelle  |  `void :(`  |
+|  `N/A`    |  Robin  |  `void :(`  |
+|  `N/A`    |  Yvan  |  `void :(`  |
 
 ### Idées de présentations
 
-- WebAssembly : https://webassembly.org/ https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
+| Sujet | Description |
+|-------|-------------|
+|   WebAssembly   |   https://webassembly.org/ https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/     |
+|   redis   |   https://redis.io/    |
+|   elasticsearch   |   https://www.elastic.co/fr/    |
+|   aws   |   https://aws.amazon.com/fr/    |
+|   C++11 à C++17   |    https://www.mycplus.com/featured-articles/cplusplus-17-features/    |
+|   Node.js Heap, stack, event-loops and callback queue   |    https://medium.com/javascript-in-plain-english/understanding-javascript-heap-stack-event-loops-and-callback-queue-6fdec3cfe32e    |
+|  Scala    |    https://www.scala-lang.org/    |
+|  Hadoop    |   https://hadoop.apache.org/    |
+|   circleci   |   https://circleci.com/    |
+|   Algorithmes de recherches   |   https://www.geeksforgeeks.org/searching-algorithms/    |
+|   Design patterns   |   https://sourcemaking.com/design_patterns    |
+|   Réseau   |   _(masques, DMZ, VLAN ...)_    |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
 
-- redis : https://redis.io/
 
-- elasticsearch : https://www.elastic.co/fr/
-
-- aws : https://aws.amazon.com/fr/
-
-- C++11 à C++17 https://www.mycplus.com/featured-articles/cplusplus-17-features/
-
-- Node.js Heap, stack, event-loops and callback queue https://medium.com/javascript-in-plain-english/understanding-javascript-heap-stack-event-loops-and-callback-queue-6fdec3cfe32e
-
-- Scala https://www.scala-lang.org/
-
-- Hadoop https://hadoop.apache.org/
-
-- circleci https://circleci.com/
-
-- Application caching : Redis / node-cache / memcached https://redislabs.com/docs/15-reasons-caching-is-best-done-with-redis/ https://www.npmjs.com/package/node-cache https://memcached.org/
-
-- Algorithmes de recherches https://www.geeksforgeeks.org/searching-algorithms/
-
-- Design patterns https://sourcemaking.com/design_patterns
-
-- Réseau _(masques, DMZ, VLAN ...)_
 
 ### Résumé
 
