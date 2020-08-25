@@ -6,10 +6,10 @@
 | Apache Guacamole | Yvan | https://www.tech2tech.fr/apache-guacamole-passerelle-rdp-ssh-vnc-telnet/ |
 | Grafana | Robin | void :( | 
 | GraphQL | Grégory | https://github.com/acecor-cotep/presentations/issues/1 |
-| Kotlin | Grégory | https://github.com/acecor-cotep/presentations/issues/2 |
+| Kotlin | Gwenaelle | https://github.com/acecor-cotep/presentations/issues/2 |
 | Azure | Yvan | https://portal.azure.com |
 | Apache Spark | Grégory | https://github.com/acecor-cotep/presentations/issues/4 |
-| Memcached | Grégory | https://github.com/acecor-cotep/presentations/issues/5 |
+| Memcached | Gwenaelle | https://github.com/acecor-cotep/presentations/issues/5 |
 | Serverless/lambda | Alrick | void :( |
 | Karma | Robin | void :( |
 | Go | Grégory | https://github.com/acecor-cotep/presentations/issues/7 |
