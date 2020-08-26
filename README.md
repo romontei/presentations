@@ -14,7 +14,7 @@
 | Karma | Robin | `void :(` |
 | Go | Grégory | https://github.com/acecor-cotep/presentations/issues/7 |
 | Hexagonal Architecture | Alrick | https://github.com/acecor-cotep/presentations/tree/master/hexagonal_architecture |
-|  `N/A`    |  Grégory  |  `void :(`  |
+|  Scala    |  Grégory  |  https://github.com/acecor-cotep/presentations/issues/8  |
 |  `N/A`    |  Gwenaelle  |  `void :(`  |
 |  `N/A`    |  Robin  |  `void :(`  |
 |  `N/A`    |  Yvan  |  `void :(`  |
