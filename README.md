@@ -15,7 +15,7 @@
 | Go | Grégory | https://github.com/acecor-cotep/presentations/issues/7 |
 | Hexagonal Architecture | Alrick | https://github.com/acecor-cotep/presentations/tree/master/hexagonal_architecture |
 |  Scala    |  Grégory  |  https://github.com/acecor-cotep/presentations/issues/8  |
-|  `N/A`    |  Gwenaelle  |  `void :(`  |
+|  WebAssembly    |  Gwenaelle  |  https://github.com/acecor-cotep/presentations/issues/9  |
 |  `N/A`    |  Robin  |  `void :(`  |
 |  `N/A`    |  Yvan  |  `void :(`  |
 |  `N/A`    |  Grégory  |  `void :(`  |
