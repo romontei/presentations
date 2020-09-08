@@ -39,13 +39,11 @@
 
 | Sujet | Description |
 |-------|-------------|
-|   WebAssembly   |   https://webassembly.org/ https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/     |
 |   redis   |   https://redis.io/    |
 |   elasticsearch   |   https://www.elastic.co/fr/    |
 |   aws   |   https://aws.amazon.com/fr/    |
 |   C++11 à C++17   |    https://www.mycplus.com/featured-articles/cplusplus-17-features/    |
 |   Node.js Heap, stack, event-loops and callback queue   |    https://medium.com/javascript-in-plain-english/understanding-javascript-heap-stack-event-loops-and-callback-queue-6fdec3cfe32e    |
-|  Scala    |    https://www.scala-lang.org/    |
 |  Hadoop    |   https://hadoop.apache.org/    |
 |   circleci   |   https://circleci.com/    |
 |   Algorithmes de recherches   |   https://www.geeksforgeeks.org/searching-algorithms/    |
@@ -55,7 +53,18 @@
 |      |       |
 |      |       |
 |      |       |
-
+|      |       |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
+|      |       |
 
 
 ### Résumé
