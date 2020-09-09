@@ -16,7 +16,7 @@
 | Hexagonal Architecture | Alrick | https://github.com/acecor-cotep/presentations/tree/master/hexagonal_architecture |
 |  Scala    |  Grégory  |  https://github.com/acecor-cotep/presentations/issues/8  |
 |  WebAssembly    |  Gwenaelle  |  https://github.com/acecor-cotep/presentations/issues/9  |
-|  `N/A`    |  Robin  |  `void :(`  |
+|  ReactNative    |  Robin  |  https://github.com/acecor-cotep/presentations/issues/10  |
 |  `N/A`    |  Yvan  |  `void :(`  |
 |  `N/A`    |  Grégory  |  `void :(`  |
 |  `N/A`    |  Gwenaelle  |  `void :(`  |
